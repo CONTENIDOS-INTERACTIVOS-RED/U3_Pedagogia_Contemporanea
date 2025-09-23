@@ -1,1 +1,1 @@
-module.exports = 'CIRED'
+module.exports = 'Educación del siglo XXI'
