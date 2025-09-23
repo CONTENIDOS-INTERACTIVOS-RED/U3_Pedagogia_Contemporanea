@@ -14,7 +14,7 @@
         
             .bg-color-1.p-4(data-aos="fade-left").mb-5
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   p.mb-0 La presente unidad tiene como propósito explorar las competencias fundamentales que requiere el siglo XXI: el pensamiento crítico, la resolución de problemas, la comunicación efectiva, la colaboración y la capacidad de adaptarse a los cambios. Se propone, además, analizar los desafíos emergentes de la educación y reconocer las oportunidades que pueden aprovecharse para mejorar la práctica pedagógica desde una mirada inclusiva, innovadora y comprometida con la realidad.

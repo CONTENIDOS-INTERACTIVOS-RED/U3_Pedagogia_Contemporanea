@@ -7,14 +7,14 @@
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/1.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Cómo aprenden a pensar los niños y las niñas desde sus primeros años? 
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/2.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿De qué manera un reto cotidiano puede convertirse en una oportunidad para fomentar la reflexión, la toma de decisiones y la creatividad en la infancia?
@@ -56,7 +56,7 @@
   
     .bg-color-4.p-4(data-aos="fade-left").h-100.mb-5
       .row.align-items-center
-        .col-lg-auto
+        .col-lg-auto.mb-3.mb-lg-0
           img(src="@/assets/curso/tema1/5.svg", style="max-width: 90px").mx-auto
         .col-lg
           p.mb-0 ¿Se ha reflexionado alguna vez sobre el papel que juegan los problemas en el aprendizaje de los niños y las niñas?  
@@ -145,7 +145,7 @@
       .col-lg-8.order-lg-1
         .bg-color-9.p-4(data-aos="fade-left").mb-4
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/14.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 La resolución de problemas no se enseña a través de explicaciones teóricas, sino desde la vivencia. Por eso, el papel del docente no es dar respuestas, sino formular preguntas poderosas que despierten la reflexión: ¿Qué está pasando? ¿Qué harías diferente? ¿Por qué crees que sucedió eso? ¿Qué aprendiste con esta experiencia?
@@ -177,7 +177,7 @@
               img.img-fluid(src='@/assets/curso/tema1/15.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
     
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema1/16.svg", style="max-width: 90px").mx-auto
       .col-lg
         h2(data-aos="fade-left") Reflexionemos:
@@ -186,14 +186,14 @@
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/17.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se está ofreciendo en el aula el tiempo, el espacio y el acompañamiento necesario para que los niños piensen, decidan y resuelvan? 
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/18.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se valora el proceso tanto como el resultado? 
@@ -262,7 +262,7 @@
               p Por pensamiento creativo, se entiende la capacidad para generar ideas originales, plantear nuevas perspectivas y encontrar soluciones novedosas a diversas situaciones. En la infancia, esta habilidad se manifiesta de forma natural a través del juego simbólico, la curiosidad constante, la capacidad de asombro y la facilidad para imaginar mundos posibles. La labor del docente consiste, entonces, en proteger, nutrir y expandir esa capacidad innata.
     
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema1/24.svg", style="max-width: 90px").mx-auto
       .col-lg
         p Promover el pensamiento creativo implica brindar espacios flexibles, materiales versátiles y actividades abiertas, donde no haya una única respuesta correcta, sino múltiples caminos por explorar. También significa valorar la iniciativa, el error, la expresión personal y las propuestas distintas a lo esperado.
@@ -362,7 +362,7 @@
               img.img-fluid(src='@/assets/curso/tema1/32.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
     
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema1/16.svg", style="max-width: 90px").mx-auto
       .col-lg
         h2(data-aos="fade-left") Reflexionemos:
@@ -371,14 +371,14 @@
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/33.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se está dejando espacio suficiente en el aula para que los niños creen, inventen y se equivoquen sin miedo? 
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/34.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se valora más la respuesta correcta que el proceso de imaginar? 
@@ -396,7 +396,7 @@
     .bg-full-width.bg-color-5.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/36.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 Sin embargo, pensar críticamente y resolver problemas no se realiza en solitario. La capacidad de dialogar, escuchar al otro, construir acuerdos y trabajar en equipo resulta indispensable para que estas habilidades realmente se integren en la práctica educativa. Por ello, el siguiente paso en este proceso de formación implica abordar dos pilares fundamentales de la educación del siglo XXI: la comunicación y la colaboración.

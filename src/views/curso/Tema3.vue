@@ -12,7 +12,7 @@
     
         .bg-color-2.p-4(data-aos="fade-left").mb-5
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/1-1.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Desde la mediación del lenguaje en el aula hasta la promoción del diálogo respetuoso y la interacción social, se ha resaltado el papel activo del docente como facilitador de encuentros, intérprete de emociones y promotor de espacios donde cada niño y niña pueda expresar su voz y construir saberes junto a otros.
@@ -47,7 +47,7 @@
           p(data-aos="fade-left") Este tema propone abrir la mirada hacia los principales desafíos que enfrenta la educación actual, sin perder de vista las oportunidades que emergen cuando se actúa con creatividad, compromiso y visión crítica. Se abordarán temas como el impacto de la tecnología, la atención a la diversidad, la sostenibilidad, la inclusión, la equidad y la formación de competencias para un mundo global e incierto.
     
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema3/4.svg", style="max-width: 90px").mx-auto
       .col-lg
         p Se invita a recorrer este contenido con actitud abierta, reconociendo que cada reto trae consigo una posibilidad de crecimiento. Reflexionar sobre los cambios que atraviesan la educación es también asumir la responsabilidad de construir entornos pedagógicos más humanos, adaptativos e inspiradores para las nuevas generaciones.
@@ -129,7 +129,7 @@
         p.mb-0.text-white Finalmente, educar en la diversidad es sembrar semillas de justicia social. Es formar desde la infancia a seres humanos más conscientes, respetuosos, solidarios y comprometidos con una sociedad más equitativa. Una escuela que incluye es una escuela que transforma.
 
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema3/12.svg", style="max-width: 90px").mx-auto
       .col-lg
         h2(data-aos="fade-left") Reflexionemos:
@@ -138,14 +138,14 @@
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/13.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿De qué manera se transforma la práctica pedagógica cuando se reconoce y valora la diversidad en el aula?
       .col-lg-6.mb-3.mb-lg-0
         .bg-color-4.p-4(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/14.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Qué tan preparada está la educación infantil para ofrecer experiencias auténticamente inclusivas, más allá de los discursos o intenciones?
@@ -185,7 +185,7 @@
     
         .bg-color-1.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/17.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Esta pregunta invita a comprender que la educación del siglo XXI va mucho más allá de la transmisión de conocimientos. Se trata de formar seres humanos conscientes, empáticos y comprometidos con su comunidad local y global. Por ello, desde la infancia, se plantea el desafío de educar para la ciudadanía global y el desarrollo sostenible, una propuesta que integra valores, habilidades y actitudes necesarias para convivir y transformar positivamente la sociedad.
@@ -221,13 +221,13 @@
     
         .bg-color-7.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/21.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Además, los Objetivos de Desarrollo Sostenible (ODS) propuestos por Naciones Unidas ofrecen una hoja de ruta concreta para integrar estos enfoques en las prácticas pedagógicas. Temas como el acceso al agua limpia, la salud, la educación de calidad, la igualdad, la protección de la biodiversidad o el trabajo digno, pueden ser abordados con sentido pedagógico en proyectos adaptados a la infancia.
 
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema3/12.svg", style="max-width: 90px").mx-auto
       .col-lg
         h2(data-aos="fade-left") Reflexionemos:
@@ -236,21 +236,21 @@
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/22.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Qué valores se están cultivando en el aula día a día?
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/23.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Cómo ayudar a los niños y las niñas a cuidar su entorno y convivir con respeto desde edades tempranas?
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/24.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Qué prácticas pedagógicas podrían integrarse para que la infancia participe activamente en la transformación del mundo?

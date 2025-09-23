@@ -5,7 +5,7 @@
 
     .bg-color-6.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.order-2
+        .col-lg-auto.mb-3.mb-lg-0.order-2
           figure
             img(src='@/assets/curso/tema2/1.png', alt='')
         .col-lg.order-1.mb-3.mb-lg-0
@@ -22,7 +22,7 @@
     
         .bg-color-1.px-5.py-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/3.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 A través de ejemplos, estrategias didácticas y experiencias prácticas, se invita a descubrir cómo, desde el rol docente, se puede fomentar una comunicación asertiva y crear ambientes colaborativos donde cada voz cuente y cada niño y niña se sienta parte activa de su proceso de aprendizaje.
@@ -53,7 +53,7 @@
   
     .bg-color-4.p-4(data-aos="fade-left").h-100.mb-5
       .row.align-items-center
-        .col-lg-auto
+        .col-lg-auto.mb-3.mb-lg-0
           img(src="@/assets/curso/tema2/5.svg", style="max-width: 90px").mx-auto
         .col-lg
           p.mb-0 ¿Cómo se aprende a convivir y construir con otros desde los primeros años de vida? 
@@ -127,7 +127,7 @@
               p Finalmente, no se puede olvidar que la mejor estrategia para enseñar a colaborar es modelar la colaboración. Cuando el docente escucha con atención, coopera con otros adultos y muestra respeto por las ideas de los niños y las niñas, está enseñando con el ejemplo.
     
     .row.align-items-center.mb-5
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/tema2/14.svg", style="max-width: 90px").mx-auto
       .col-lg
         h2(data-aos="fade-left") Reflexionemos:
@@ -136,21 +136,21 @@
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/15.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se están generando oportunidades reales para que los niños y las niñas se escuchen, se ayuden y decidan juntos?
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/16.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿Se valoran los procesos colaborativos tanto como los logros individuales?
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-4.p-2(data-aos="fade-left").h-100
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/17.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 ¿De qué manera se puede enriquecer el ambiente del aula para que cada niño y niña sienta que su voz y su acción hacen parte de un “nosotros”?
