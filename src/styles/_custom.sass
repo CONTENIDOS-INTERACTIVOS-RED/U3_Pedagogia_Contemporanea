@@ -17,13 +17,29 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #C3F3FB
   &-2
-    background-color: #FFFBE8
+    background-color: #D9D5E3
   &-3
-    background-color: #F0E9F6
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(239, 236, 250, 1) 100%)
   &-4
-    background-color: #EAF8FD
+    background-color: #F3DE50
+  &-5
+    background-color: #453179 !important
+  &-6
+    background-color: #FBF4C9
+  &-7
+    background-color: #CBDDF7
+  &-8
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(203, 221, 247, 1) 50%, rgba(255, 255, 255, 1) 100%)
+  &-9
+    background-color: #DCE8FA
+  &-10
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(217, 213, 227, 1) 100%)
+  &-11
+    background-color: #EBE9F0
+  &-12
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(217, 213, 227, 1) 50%, rgba(255, 255, 255, 1) 100%)
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -97,15 +113,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: lighten($color-acento-contenido, 45%) !important
 
 .acordion__header--active
   background-color: $color-acento-contenido !important
   h4, i
-    color: #000 !important
+    color: #fff !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: lighten($color-acento-contenido, 47%) !important
 
 
 .anexo__texto
@@ -135,7 +151,7 @@ $custom-card-img-height: 322px
   background-color: #FCDFDB !important
 
 
-.box-shadow
+.shadow-app
   box-shadow: 0 4px 8px rgba(0,0,0,0.1)
   border: 2px solid rgba(0,0,0,0.1)
 
@@ -227,3 +243,12 @@ th.bg-color-tabla
 
 .bordes
   border: 1px solid lightgray !important
+
+///////////////TABLAS/////////////////// 
+.pst
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
