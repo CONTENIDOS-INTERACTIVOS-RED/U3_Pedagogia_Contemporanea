@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La unidad III:  Introducción al derecho y sus fuentes, establece los fundamentos teóricos esenciales para comprender el origen de las normas jurídicas y su aplicación. Esta unidad sienta las bases de la formación jurídica que se desarrollará a lo largo del curso, proporcionando una perspectiva clara sobre el concepto de Derecho, sus funciones en la sociedad y el origen de las normas. Este enfoque integral asegura que los estudiantes adquieran una comprensión sólida de los fundamentos del Derecho, lo que les permitirá avanzar con éxito en su estudio y práctica futura.
+      p(data-aos="fade-up").mb-5 Esta unidad tiene como propósito explorar las competencias fundamentales que requiere el siglo XXI: el pensamiento crítico, la resolución de problemas, la comunicación efectiva, la colaboración y la capacidad de adaptarse a los cambios. Se propone, además, analizar los desafíos emergentes de la educación y reconocer las oportunidades que pueden aprovecharse para mejorar la práctica pedagógica desde una mirada inclusiva, innovadora y comprometida con la realidad.
 
       .row.justify-content-center
         .col-lg-12.mb-5
